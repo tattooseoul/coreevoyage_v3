@@ -131,21 +131,170 @@
                             <div class="card-body">
                                 <h3 class="mb-5">Confectionnez votre voyage</h3>
                                 <form name="Contact Circuit" method="POST" data-netlify="true">
-                                    <div class="fields">
-                                        <div class="field half">
-                                            <input type="text" name="name" id="name" placeholder="Name" />
+                                    <div class="h5 mb-4">Informations voyageur</div>
+                                    <div class="form-row">
+                                        <div class="form-group col-md-6">
+                                            <label for="nom">Nom de famille</label>
+                                            <input type="text" class="form-control" name="nom" placeholder="" required>
                                         </div>
-                                        <div class="field half">
-                                            <input type="email" name="email" id="email" placeholder="Email" />
+                                         <div class="form-group col-md-6">
+                                            <label for="prenom">Prénom</label>
+                                            <input type="text" class="form-control" name="prenom" placeholder="" required>
+                                            </div>
+                                            </div>
+                                        <div class="form-row">
+                                        <div class="form-group col-md-6">
+                                            <label for="email">Adresse mail</label>
+                                            <input type="email" class="form-control" name="email" placeholder="" required>
                                         </div>
-                                        <div class="field">
-                                            <textarea name="message" id="message" placeholder="Message" rows="7"></textarea>
+                                        
+                                            </div>
+                                            <div class="form-row">
+                                        <div class="form-group col-md-6">
+                                            <label for="username">Age des voyageurs</label>
+                                            <input type="text" class="form-control" name="email" placeholder="" required>
+                                        </div>
+                                         <div class="form-group col-md-6">
+                                            <label for="voyageurs">Nombre de voyageurs</label>
+                                            <select class="form-control" name="email" placeholder="" required>
+                                                <option value="">Nombre de voyageurs</option>
+                                                <option>1</option>
+                                                <option>2</option>
+                                                <option>3</option>
+                                                <option>4</option>
+                                                <option>5</option>
+                                                <option>6</option>
+                                                <option>7</option>
+                                                <option>8</option>
+                                                <option>9</option>
+                                                <option>10</option>
+                                                <option>+10</option>
+                                                </select>
+                                        </div>
+                                        </div>
+                                        <div class="h5 mb-4">Séjour</div>
+                                    <div class="form-row">
+                                        <div class="form-group col-md-6">
+                                            <label for="name">Date d'arrivée en Corée</label>
+                                             <input type="text" class="form-control" name="username" placeholder="JJ/MM/AAAA" required>
+                                        </div>
+                                        <div class="form-group col-md-6">
+                                            <label for="name">Date de départ de Corée</label>
+                                             <input type="text" class="form-control" name="username" placeholder="JJ/MM/AAAA" required>
                                         </div>
                                     </div>
-                                    <ul class="actions">
-                                        <li><input type="submit" value="Send Message" class="button primary" /></li>
-                                    </ul>
-                                  </form>
+                                     <div class="h5 mb-4">Hébergement</div>
+                                    <div class="form-row">
+                                        <div class="form-group col-md-6">
+                                            <label for="name">Catégorie d'hébergement</label>
+                                             <select class="form-control" name="email" placeholder="" required>
+                                                <option value=""></option>
+                                                <option>Hôtel 1*</option>
+                                                <option>Hôtel 2*</option>
+                                                <option>Hôtel 3*</option>
+                                                <option>Hôtel 4*</option>
+                                                <option>Hôtel 5*</option>
+                                                <option>Maison traditionnelle</option>
+                                                <option>Guesthouse</option>
+                                                <option>Pension</option>
+                                                <option>Minbak</option>
+                                                
+                                                </select>
+                                        </div>
+                                        <div class="form-group col-md-6">
+                                            <label for="name">Type de chambre</label>
+                                             <select class="form-control" name="email" placeholder="" required>
+                                                <option value=""></option>
+                                                <option>Single</option>
+                                                <option>Twin</option>
+                                                <option>Double</option>
+                                                <option>Triple</option>
+                                                <option>Familiale</option>
+                                                <option>Dortoirs</option>
+                                                
+                                                
+                                                </select>
+</div>
+</div>
+
+                                     <div class="h5 mb-4">Transport</div>
+                                    <div class="form-row">
+
+                                    <div class="form-group col-md-6">
+                                            <label for="email">Vous vous déplacez en :</label>
+                                            <select class="form-control" name="email" placeholder="" required>
+                                                <option value=""></option>
+                                                <option>Transports en commun</option>
+                                                <option>Véhicule privé avec chauffeur</option>
+                                                <option>Voiture de location</option>
+                                                
+                                                </select>
+                                                                       
+                                        </div>
+                                       <div class="form-group col-md-6">
+                                            <label for="email">Transfert aéroport</label>
+                                            <select class="form-control" name="email" placeholder="" required>
+                                                <option value=""></option>
+                                                <option>Oui</option>
+                                                <option>Non</option>
+                                                
+                                                </select>
+                                                                       
+                                        </div>
+                                        </div>
+                                    <div class="h5 mb-4">Accompagnement</div>
+                                    <div class="form-row">
+
+                                    <div class="form-group col-md-6">
+                                            <label for="email"></label>
+                                            <select class="form-control" name="email" placeholder="" required>
+                                                <option value=""></option>
+                                                <option>Oui</option>
+                                                <option>Non</option>                                  
+                                                </select>
+                                        </div>                               
+                                        </div><div class="h5 mb-4">Activités</div>
+                                    <div class="form-row">
+                                       <div class="form-group col-md-6">
+                                            <label for="email">Une activité vous intéresse ?</label>
+                                            <select class="form-control" name="email" placeholder="" required>
+                                                <option value=""></option>
+                                                <option>Oui</option>
+                                                <option>Non</option>
+                                                
+                                                </select>                          
+                                        </div>
+                                        <div class="form-group col-md-6">
+                                            <label for="username">Types d'activités</label>
+                                            <input type="text" class="form-control" name="username" placeholder="spectacle, cours de cuisine, atelier, etc">
+                                        </div>                                      
+                                        </div>                                
+                                    
+                                    <div class="h5 mb-4">Remarques</div>
+                                    <div class="form-row">
+                                             <div class="col-md-6">
+                                            <div class="form-group">
+                                                <textarea name="txtMsg" class="form-control" placeholder="Votre Message" style="width: 100%; min-height: 160px;"></textarea>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" name="terms_conditions" id="terms_conditions" class="custom-control-input" value="1" required>
+                                            <label class="custom-control-label" for="terms_conditions">Je certifie avoir lu et accepté les <a href="#">Conditions générales de vente</a> de Corée Voyage</label>
+                                            </div>
+                                            </div>
+
+                                            <div class="form-row">
+                                                <div date-netlify-recaptcha="true"></div>
+                                            </div>
+
+                                      
+                                    <button type="submit" class="btn m-t-30 mt-3">Envoyer</button>
+                                </form>
+                            </div>
+                        </div>
+                                  
                                   
                                            
        </section>
