@@ -4729,7 +4729,7 @@ body.breakpoint-xl .pricing-table .col-lg-2 .plan-list ul li, body.breakpoint-lg
 
 video { width: 100%; }
 
-.bg-overlay { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; content: ' '; z-index: 0; background: rgba(0, 0, 0, 0.59); opacity: .5; }
+.bg-overlay { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; content: ' '; z-index: 0; background: rgba(0, 0, 0, 0.29); opacity: .5; }
 .bg-overlay[data-style="1"] { background: #fff; }
 .bg-overlay[data-style="2"] { background: #2250fc; opacity: .9; }
 .bg-overlay[data-style="3"] { background: linear-gradient(140deg, #7c1bd6 0%, #31049b 100%); opacity: .9; }
