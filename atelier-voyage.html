@@ -152,6 +152,10 @@
                                             <label>Adresse mail</label>
                                             <input type="email" class="form-control" name="email" placeholder="" required>
                                         </div>
+                                        <div class="form-group col-md-6">
+                                            <label>Numéro de téléphone</label>
+                                            <input type="text" class="form-control" name="numéro de téléphone" placeholder="" required>
+                                        </div>
                                         
                                             </div>
                                             <div class="form-row">
@@ -183,7 +187,7 @@
                                             <div class="form-group col-md-6">
                                                 <label>Vous voyagez</label>
                                                 <select class="form-control" name="Vous voyagez" placeholder="Type de voyage" required>
-                                                    <option value="">Vous voyagez</option>
+                                                    <option value="Type de voyage"></option>
                                                     <option>En solo</option>
                                                     <option>En couple</option>
                                                     <option>En famille</option>
@@ -194,7 +198,7 @@
                                             <div class="form-group col-md-6">
                                                 <label>Avez-vous déja réservé votre vol ?</label>
                                                 <select class="form-control" name="Avez-vous déja réservé votre vol" placeholder="" required>
-                                                    <option value="">Vous voyagez</option>
+                                                    <option value=""></option>
                                                     <option>Oui</option>
                                                     <option>Non</option>
                                                     
@@ -203,7 +207,7 @@
                                         </div>
                                     <div class="form-row">
                                         <div class="form-group col-md-6">
-                                            <label>Date d'arrivée en Corée</label>
+                                            <label>Date d'arrivée en Corée (au départ de France, la date d'arrivée en Corée est J+1) </label>
                                              <input type="text" class="form-control" name="Date d'arrivée en Corée" placeholder="JJ/MM/AAAA" required>
                                         </div>
                                         <div class="form-group col-md-6">
@@ -222,30 +226,39 @@
                                                 <option>Hôtel 3*</option>
                                                 <option>Hôtel 4*</option>
                                                 <option>Hôtel 5*</option>
-                                                <option>Maison traditionnelle</option>
+                                                <option>Insolite (nuit en temple, nuit en maison traditionnelle, etc)</option>
                                                 <option>Guesthouse</option>
-                                                <option>Pension</option>
-                                                <option>Minbak</option>
-                                                
+                                                                                         
                                                 </select>
+
+                                                
                                         </div>
                                         <div class="form-group col-md-6">
                                             <label>Type de chambre</label>
                                              <select class="form-control" name="Type de chambre" placeholder="" required>
                                                 <option value=""></option>
-                                                <option>Single</option>
-                                                <option>Twin</option>
-                                                <option>Double</option>
-                                                <option>Triple</option>
-                                                <option>Familiale</option>
+                                                <option>Chambre individuelle</option>
+                                                <option>Chambre avec lits jumeaux</option>
+                                                <option>Chambre double</option>
+                                                <option>Chambre triple</option>
+                                                <option>Chambre familiale</option>
                                                 <option>Dortoirs</option>
                                                 
                                                 
                                                 </select>
-</div>
-</div>
+                                        </div>
+                                        </div>
 
-                                     <div class="h5 mb-4">Transport</div>
+                                        <div class="h5 mb-4">Remarques</div>
+                                        <div class="form-row">
+                                        <div class="col-md-6">
+                                        <div class="form-group">
+                                        <textarea name="Message" class="form-control" placeholder="Precisez si vous avez des exigences particulieres : lit bebe, ascenseur, etc" style="width: 100%; min-height: 160px;"></textarea>
+                                        </div>
+                                        </div>
+
+
+                                     <div class="h5 mb-4">Transport<//div>div>
                                     <div class="form-row">
 
                                     <div class="form-group col-md-6">
@@ -296,7 +309,23 @@
                                             <label>Types d'activités</label>
                                             <input type="text" class="form-control" name="Type d'activité" placeholder="spectacle, cours de cuisine, atelier, etc">
                                         </div>                                      
-                                        </div>                                
+                                        </div>   
+                                        
+                                        <div class="h5 mb-4">Budget (Hors Vols Internationaux)</div>
+                                        <div class="form-row">
+    
+                                        <div class="form-group col-md-6">
+                                                <label>Votre Budget</label>
+                                                <select class="form-control" name="Budget" placeholder="" required>
+                                                    <option value=""></option>
+                                                    <option>Indifférent</option>
+                                                    <option>Moins de 1 000 euros / personne</option>
+                                                    <option>Entre 1 000 et 2 000 euros / personne</option>                                  
+                                                    <option>Entre 2 000 et 3 000 euros / personne</option>
+                                                    <option>Plus de 3 000 euros / personne</option>
+                                              
+                                                </select>
+                                            </div>        
                                     
                                     <div class="h5 mb-4">Remarques</div>
                                     <div class="form-row">
