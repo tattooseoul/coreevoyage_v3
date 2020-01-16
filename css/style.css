@@ -2042,7 +2042,7 @@ Helpers
 	Widgets
 -----------------------------------------------------------------*/
 .widget { margin-bottom: 30px; position: relative; }
-.widget .widget-title, .widget > h4 { font-size: 14px; font-style: normal; font-weight: 600; text-transform: uppercase; line-height: 24px; letter-spacing: 1px; margin-bottom: 20px; }
+.widget .widget-title, .widget > h4 { font-size: 14px; color: #2abf95; font-style: normal; font-weight: 600; text-transform: uppercase; line-height: 24px; letter-spacing: 1px; margin-bottom: 20px; }
 .widget:after, .widget:before { clear: both; content: " "; display: table; }
 .widget .flickity-page-dots { margin-bottom: 20px; }
 .widget a { color: #484848; }
