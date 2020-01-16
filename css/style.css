@@ -839,7 +839,7 @@ h6:not(:last-child), .h6:not(:last-child) { margin-bottom: 6px; }
   .lead { font-size: 1.35714286em; line-height: 1.68421053em; } }
 .display-4 { font-weight: 400; }
 
-p { font-size: 1rem; font-style: normal; font-weight: 400; text-transform: none; line-height: 1.7; letter-spacing: 0; color: #777777; font-family: "Poppins", sans-serif; }
+p { font-size: 1rem; font-style: normal; font-weight: 400; text-transform: none; line-height: 1.7; letter-spacing: 0; color: #000; font-family: "Poppins", sans-serif; }
 
 ul.bullets { list-style: inside; }
 
