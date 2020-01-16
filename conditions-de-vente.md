@@ -1,21 +1,146 @@
-Conditions Générales de Vente 
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="INSPIRO" />
+    <meta name="description" content="Les conditions de vente de Corée Voyage">
+    <!-- Document title -->
+    <title>CORÉE VOYAGE | Votre spécialiste du voyage en Corée du Sud</title>
+    <!-- Stylesheets & Fonts -->
+    <link href="//fonts.googleapis.com/css?family=Cedarville+Cursive" rel="stylesheet" type="text/css">
+
+    <link href="css/plugins.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+
+<body class="side-panel side-panel-static">
+
+    <!-- Side Panel -->
+    <div id="side-panel" class="text-center dark">
+        <div id="close-panel">
+            <i class="fa fa-times"></i>
+        </div>
+
+        <div class="side-panel-wrap">
+            <div class="logo">
+                <a href="#"><img src="homepages/architect/images/logo-side.png"></a>
+            </div>
+            <hr class="space">
+            <!--Navigation-->
+            <div id="mainMenu" class="menu-onclick menu-vertical">
+                <div class="container">
+                    <nav>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="equipe-coreevoyage.html">L'ÉQUIPE</a></li>
+                            <li><a href="nos-voyages.html">NOS VOYAGES</a></li>
+                            <li><a href="atelier-voyage.html">VOTRE ATELIER VOYAGE</a></li>
+                            <li><a href="blog.html">NOTRE BLOG</a></li>
+                            <li><a href="ou-nous-trouver.html">Où nous trouver ?</a></li>
+                        </ul>
+                           
+                    </nav>
+                </div>
+            </div>
+            <!--end: Navigation-->
+
+            <p style="text-align: left; color: #777777;"><i class="icon-phone"></i> 09-77-19-81-33</p>
+            <p style="text-align: left; color: #777777"><i class="icon-mail"></i> contact@coreevoyage.com</p>
+        
+            
+            <hr class="space">
+            <!--social icons-->
+            <div class="social-icons social-icons-colored text-center">
+                <ul>
+                   <li class="social-facebook"><a href="https://www.facebook.com/coreevoyage"><i class="fab fa-facebook-f"></i></a></li>
+                    <li class="social-instagram"><a href="https://www.instagram.com/coreevoyage/"><i class="fab fa-instagram"></i></a></li>
+                    <li class="social-twitter"><a href="https://twitter.com/coreevoyage/"><i class="fab fa-twitter"></i></a></li>
+                </ul>
+            </div>
+            <!--end: social icons-->
+
+      
+        </div>
+
+    </div>
+    <!-- end: Side Panel -->
+
+    <!-- Body Inner -->
+    <div class="body-inner">
+
+        <!-- Header -->
+        <header id="header" class="d-block d-md-none">
+
+            <div class="header-inner">
+                <div class="container">
+
+                    <!--Logo-->
+                    <div id="logo">
+                        <a href="index.html" class="logo" data-src-dark="images/logo_pastel_1.png">
+                            <img src="images/logo-mobile.png" alt="Polo Logo">
+                        </a>
+                    </div>
+                    <!--End: Logo-->
+                    <!--Header Extras-->
+                    <div class="header-extras">
+                        <ul>
+                            <li>
+                                <!--side panel-->
+                                <a id="side-panel-trigger" href="#" class="toggle-item" data-target="body" data-class="side-panel-active">
+                                    <i class="fa fa-bars"></i>
+                                    <i class="fa fa-times"></i>
+                                </a>
+                                <!--end: side panel-->
+                            </li>
+                        </ul>
+                    </div>
+                    <!--end: Header Extras-->
+
+                </div>
+            </div>
+        </header>
+        <!-- end: Header -->
+
+<!-- Content -->
+<section id="page-content">
+
+    <div class="container">
+        <div class="heading-text heading-section text-center">
+            <h2>Conditions de vente</h2>
+            </div>
+        <div class="container">
+
+        <a href="conditions-de-vente.pdf"><strong>Nos conditions de vente sont telechargeables</strong></a>
+
+
+
+        </div>
+</section>
+<!-- end: Content -->
+
+
+### Conditions Générales de Vente 
 
 Conformément à la législation en vigueur, les articles R211-3 à R211-11 du code du tourisme reproduits ci-après.
  Exclusions : les dispositions ci-dessous ne sont pas applicables lorsque les prestations vendues n'entrent pas dans un forfait tel que défini à l'article L 211-2 du Code du Tourisme.
  Ces dispositions ne sont notamment pas applicables lors de la vente de titres de transport seuls, de locations de voiture seules, de prestations d'hébergement seules.
  
-Extrait du Code du Tourisme.
+1. Extrait du Code du Tourisme.
  
-Article R.211-3 :
+#### Article R.211-3 :
 Sous réserve des exclusions prévues aux troisième et quatrième alinéas de l'article L. 211-7, toute offre et toute vente de prestations de voyages ou de séjours donnent lieu à la remise de documents appropriés qui répondent aux règles définies par la présente section.
 En cas de vente de titres de transport aérien ou de titres de transport sur ligne régulière non accompagnée de prestations liées à ces transports, le vendeur délivre à l'acheteur un ou plusieurs billets de passage pour la totalité du voyage, émis par le transporteur ou sous sa responsabilité.
 Dans le cas de transport à la demande, le nom et l'adresse du transporteur, pour le compte duquel les billets sont émis, doivent être mentionnés.
 La facturation séparée des divers éléments d'un même forfait touristique ne soustrait pas le vendeur aux obligations qui lui sont faites par les dispositions réglementaires de la présente section.
  
-Article R.211-3-1 :
+#### Article R.211-3-1 :
 L'échange d'informations pré-contractuelles ou la mise à disposition des conditions contractuelles est effectué par écrit. Ils peuvent se faire par voie électronique dans les conditions de validité et d'exercice prévues aux articles 1369-1 à 1369-11 du code civil. Sont mentionnés le nom ou la raison sociale et l'adresse du vendeur ainsi que l'indication de son immatriculation au registre prévu au a de l'article L. 141-3 ou, le cas échéant, le nom, l'adresse et l'indication de l'immatriculation de la fédération ou de l'union mentionnées au deuxième alinéa de l'article R. 211-2.
  
-Article R.211-4 :
+#### Article R.211-4 :
 Préalablement à la conclusion du contrat, le vendeur doit communiquer au consommateur les informations sur les prix, les dates et les autres éléments constitutifs des prestations fournies à l'occasion du voyage ou du séjour tels que :
 1° La destination, les moyens, les caractéristiques et les catégories de transports utilisés ;
 2° Le mode d'hébergement, sa situation, son niveau de confort et ses principales caractéristiques, son homologation et son classement touristique correspondant à la réglementation ou aux usages du pays d'accueil ;
@@ -32,11 +157,11 @@ R. 211-10 et R. 211-11 ;
 12° L'information concernant la souscription facultative d'un contrat d'assurance couvrant les conséquences de certains cas d'annulation ou d'un contrat d'assistance couvrant certains risques particuliers, notamment les frais de rapatriement en cas d'accident ou de maladie ;
 13° Lorsque le contrat comporte des prestations de transport aérien, l'information, pour chaque tronçon de vol, prévue aux articles R. 211-15 à R. 211-18.
  
-Article R.211-5 :
+#### Article R.211-5 :
 L'information préalable faite au consommateur engage le vendeur, à moins que dans celle-ci le vendeur ne se soit réservé expressément le droit d'en modifier certains éléments. Le vendeur doit, dans ce cas, indiquer clairement dans quelle mesure cette modification peut intervenir et sur quel éléments.
 En tout état de cause, les modifications apportées à l'information préalable doivent être communiquées au consommateur avant la conclusion du contrat.
  
-Article R.211-6 :
+#### Article R.211-6 :
 Le contrat conclu entre le vendeur et l'acheteur doit être écrit, établi en double exemplaire dont l'un est remis à l'acheteur, et signé par les deux parties. Lorsque le contrat est conclu par voie électronique, il est fait application des articles 1369-1 à 1369-11 du code civil. Le contrat doit comporter les clauses suivantes :
 1° Le nom et l'adresse du vendeur, de son garant et de son assureur ainsi que le nom et l'adresse de l'organisateur ;
 2° La destination ou les destinations du voyage et, en cas de séjour fractionné, les différentes périodes et leurs dates ;
@@ -54,7 +179,7 @@ Le contrat conclu entre le vendeur et l'acheteur doit être écrit, établi en d
 14° Les conditions d'annulation de nature contractuelle ;
 15° Les conditions d'annulation prévues aux articles R. 211-9,
 
-R. 211-10 et R. 211-11 ;
+##### R. 211-10 et R. 211-11 ;
 16° Les précisions concernant les risques couverts et le montant des garanties au titre du contrat d'assurance couvrant les conséquences de la responsabilité civile professionnelle du vendeur ;
 17° Les indications concernant le contrat d'assurance couvrant les conséquences de certains cas d'annulation souscrit par l'acheteur (numéro de police et nom de l'assureur) ainsi que celles concernant le contrat d'assistance couvrant certains risques particuliers, notamment les frais de rapatriement en cas d'accident ou de maladie ; dans ce cas, le vendeur doit remettre à l'acheteur un document précisant au minimum les risques couverts et les risques exclus ;
 18° La date limite d'information du vendeur en cas de cession du contrat par l'acheteur ;
@@ -64,11 +189,11 @@ b) Pour les voyages et séjours de mineurs à l'étranger, un numéro de télép
 20° La clause de résiliation et de remboursement sans pénalités des sommes versées par l'acheteur en cas de non-respect de l'obligation d'information prévue au 13° de l'article R. 211-4 ;
 21° L'engagement de fournir à l'acheteur, en temps voulu avant le début du voyage ou du séjour, les heures de départ et d'arrivée.
  
-Article R.211-7 :
+#### Article R.211-7 :
 L'acheteur peut céder son contrat à un cessionnaire qui remplit les mêmes conditions que lui pour effectuer le voyage ou le séjour, tant que ce contrat n'a produit aucun effet.
 Sauf stipulation plus favorable au cédant, celui-ci est tenu d'informer le vendeur de sa décision par tout moyen permettant d'en obtenir un accusé de réception au plus tard sept jours avant le début du voyage. Lorsqu'il s'agit d'une croisière, ce délai est porté à quinze jours. Cette cession n'est soumise, en aucun cas, à une autorisation préalable du vendeur.
  
-Article R.211-8 :
+#### Article R.211-8 :
 Lorsque le contrat comporte une possibilité expresse de révision du prix, dans les limites prévues à l'article L. 211-12, il doit mentionner les modalités précises de calcul, tant à la hausse qu'à la baisse, des variations des prix, et notamment le montant des frais de transport et taxes y afférentes, la ou les devises qui peuvent avoir une incidence sur le prix du voyage ou du séjour, la part du prix à laquelle s'applique la variation, le cours de la ou des devises retenu comme référence lors de l'établissement du prix figurant au contrat.
  
 Article R.211-9 :
@@ -378,5 +503,96 @@ En revanche, Corée Voyage se réserve le droit de poursuivre tout individu ou e
      28. Signature
 En acceptant ces CGV et le devis qui y est lié, par voie électronique, de courrier postal ou autre moyen créant une trace écrite, vous renoncez à toute poursuite judiciaire et déniez toute responsabilité à Corée Voyage en cas de manquement de votre part, ou de la part d’une tierce partie.
 
+        <!-- Footer -->
+        <footer id="footer">
+            <div class="footer-content">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-5">
+                            <div class="widget">
 
+                                <div class="widget-title">Corée Voyage</div>
+                                <p><i class="icon-map-pin"></i> Mapo-gu, 26 Jandari-ro, 7an-gil, #301</p>
+                                <p>Séoul, Corée du Sud</p>
+                                <p><i class="icon-phone"></i> 09-77-19-81-33</p>
+                                <p><i class="icon-mail"></i> contact@coreevoyage.com</p>
+                                
+                            </div>
+                        </div>
+                        <div class="col-lg-7">
+                            <div class="row">
+                                <div class="col-lg-3">
+                                    <div class="widget">
+                                        <div class="widget-title">Nos Voyages</div>
+                                        <ul class="list">
+                                            <li><a href="regroupes">Regroupés</a></li>
+                                            <li><a href="incontournables">Incontournables</a></li>
+                                            <li><a href="autotour">Autotour</a></li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3">
+                                    <div class="widget">
+                                        <div class="widget-title">Contact</div>
+                                        <ul class="list">
+                                            <li><a href="atelier-voyage">Atelier Voyage</a></li>
+                                            <li><a href="ou-nous-trouver">Où nous trouver</a></li>
+
+                                            
+
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3">
+                                    <div class="widget">
+                                        <div class="widget-title">Qui sommes-nous ?</div>
+                                        <ul class="list">
+                                            <li><a href="equipe-coreevoyage">L'équipe</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="widget">
+                                        <div class="widget-title">Autour du voyage</div>
+                                        <ul class="list">
+                                            <li><a href="#">Avis Voyageurs</a></li>
+                                            <li><a href="assurance">Assurance</a></li>
+                                            <li><a href="blog">Blog</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="copyright-content">
+                <div class="container">
+                    <p style="text-align: center;"><a href="mentions-legales.html">Mentions légales</a> | <a href="conditions-de-vente" target="_blank" rel="noopener noreferrer">CGV</a></p>
+                    <div class="copyright-text text-center">© 2020 Corée Voyage. Tous droits réservés.</div>
+                </div>
+            </div>
+        </footer>
+        <!-- end: Footer -->
+
+    </div>
+    <!-- end: Body Inner -->
+
+    <!-- Scroll top -->
+    <a id="scrollTop"><i class="icon-chevron-up"></i><i class="icon-chevron-up"></i></a>
+    <!--Plugins-->
+    <script src="js/jquery.js"></script>
+    <script src="js/plugins.js"></script>
+
+    <!--Template functions-->
+    <script src="js/functions.js"></script>
+
+
+</body>
+
+</html>
 
