@@ -847,7 +847,7 @@ strong { font-weight: 600; }
 
 del { -webkit-text-decoration-line: line-through; text-decoration-line: line-through; }
 
-a:not(.btn):not(.badge):hover, a:not(.btn):not(.badge):focus, a:not(.btn):not(.badge):active { text-decoration: none; outline: none; color: #2250fc; }
+a:not(.btn):not(.badge):hover, a:not(.btn):not(.badge):focus, a:not(.btn):not(.badge):active { text-decoration: none; outline: none; color: #2abf95; }
 a:not(.btn):not(.badge):not(.btn):not([href]):not([tabindex]) { color: #484848; }
 
 .font-pacifico { font-family: 'Dancing Script' !important; }
