@@ -1079,8 +1079,8 @@ Portfolio
 .post-item .post-image .post-meta-category, .post-item .post-slider .post-meta-category, .post-item .post-video .post-meta-category, .post-item .post-audio .post-meta-category, .post-item .post-quote-img .post-meta-category { background-color: #2abf95; color: #ffffff; font-size: 13px; padding: 2px 16px; border-radius: 50px; position: absolute; right: 10px; top: 11px; z-index: 3; margin-right: 0; }
 .post-item .post-image .post-meta-category i, .post-item .post-slider .post-meta-category i, .post-item .post-video .post-meta-category i, .post-item .post-audio .post-meta-category i, .post-item .post-quote-img .post-meta-category i { margin-right: 4px; }
 .post-item .post-image .post-meta-category a, .post-item .post-slider .post-meta-category a, .post-item .post-video .post-meta-category a, .post-item .post-audio .post-meta-category a, .post-item .post-quote-img .post-meta-category a { color: #ffffff; }
-.post-item .post-quote-img .post-meta-category { background-color: #ffffff; color: #2250fc; }
-.post-item .post-quote-img .post-meta-category a { color: #2250fc; }
+.post-item .post-quote-img .post-meta-category { background-color: #ffffff; color: #2abf95; }
+.post-item .post-quote-img .post-meta-category a { color: #2abf95; }
 .post-item .post-video video, .post-item .post-video iframe { width: 100%; background-color: #000000; }
 .post-item .post-audio > a > img { margin-bottom: -28px; }
 .post-item .post-audio audio, .post-item .post-audio iframe { width: 100%; }
@@ -1098,7 +1098,7 @@ Portfolio
 .post-item.border { border: none !important; }
 .post-item.border .post-item-wrap { border: 1px solid #f2f2f2; }
 .post-item.border > .post-item-wrap > .post-item-description { padding: 24px !important; width: 100% !important; }
-.post-item.quote .post-item-wrap { background-color: #2250fc; border-radius: 4px; border-width: 0; }
+.post-item.quote .post-item-wrap { background-color: #2abf95; border-radius: 4px; border-width: 0; }
 .post-item.quote .post-quote-img img { width: auto; margin-left: 40px; margin-top: 40px; }
 .post-item.quote .post-item-description { padding: 40px; }
 .post-item.quote .post-item-description .post-meta-date, .post-item.quote .post-item-description .post-meta-comments, .post-item.quote .post-item-description .post-meta-category { color: #ffffff; opacity: 0.8; }
