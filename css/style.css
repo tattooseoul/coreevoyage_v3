@@ -175,7 +175,7 @@ section { padding: 80px 0; position: relative; width: 100%; overflow: hidden; z-
 .grid-filter li:hover a, .grid-filter li:hover a:hover, .grid-filter li:hover a:active, .grid-filter li:hover a:focus, .grid-filter li.active a, .grid-filter li.active a:hover, .grid-filter li.active a:active, .grid-filter li.active a:focus { background-color: #2250fc; color: #ffffff; }
 .grid-filter li.active { cursor: pointer; pointer-events: none; }
 .grid-filter li.active a { color: #ffffff; pointer-events: none; }
-.grid-filter.gf-outline li:hover a, .grid-filter.gf-outline li.active a { border-color: #2250fc; color: #2250fc; background-color: transparent; }
+.grid-filter.gf-outline li:hover a, .grid-filter.gf-outline li.active a { border-color: #2abf95; color: #2abf95; background-color: transparent; }
 .grid-filter.gf-lines li a { border-radius: 0; border: none; background-color: transparent !important; }
 .grid-filter.gf-lines li a:after { content: ''; position: absolute; top: auto; bottom: -2px; left: 50%; width: 0; height: 2px; -webkit-transition: all 0.3s ease; transition: all 0.3s ease; }
 .grid-filter.gf-lines li:hover a, .grid-filter.gf-lines li.active a { color: #2250fc; }
