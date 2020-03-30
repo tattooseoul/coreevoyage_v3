@@ -135,6 +135,7 @@
                                     <p class="hidden">
                                         <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
                                       </p>
+                                      <label style="font-size: 12px;">Les champs marqués d'un astérisque (*) doivent obligatoirement être renseignés.</label>
                                     <div class="h5 mb-4">Informations voyageur</div>
                                     <div class="form-row">
                                         <div class="form-group col-md-6">
@@ -171,7 +172,7 @@
                                                     <div class="form-row">
                                                         <div class="form-group col-md-6">
                                                             <label>Ville*</label>
-                                                            <input type="text" class="form-control" name="email" placeholder="" required>
+                                                            <input type="text" class="form-control" name="ville" placeholder="" required>
                                                         </div>
                                                         <div class="form-group col-md-6">
                                                             <label>Pays*</label>
@@ -183,7 +184,8 @@
                                         <div class="form-group col-md-6">
                                                     <label>Nationalité*</label>
                                                     <select class="form-control" name="Nationalité" placeholder="" required>
-                                                        <option value="">Française</option>
+                                                        <option value=""></option>
+                                                        <option>Française</option>
                                                         <option>Belge</option>
                                                         <option>Suisse</option>
                                                         </select>
