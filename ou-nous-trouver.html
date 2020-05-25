@@ -5,16 +5,27 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="description" content="Où se trouvent les bureaux de Corée Voyage">
+    <meta name="description" content="Toutes les informations relatives à la géolocalisation de l'agence Corée Voyage">
     <link rel="icon" href="images/favicon.png">
     <!-- Document title -->
-    <title>CORÉE VOYAGE | Votre spécialiste du voyage en Corée du Sud</title>
+    <title>CORÉE VOYAGE | Où se trouvent les bureaux de Corée Voyage</title>
     <!-- Stylesheets & Fonts -->
     <link href="//fonts.googleapis.com/css?family=Cedarville+Cursive" rel="stylesheet" type="text/css">
 
     <link href="css/plugins.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <meta name="google-site-verification" content="FMuxGqyVk5O5_-pWoPUNAU0ht4hcmAjdu1fDScswUC8" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin=""/>
+ 
+ <!-- Make sure you put this AFTER Leaflet's CSS -->
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+    crossorigin=""></script>
+ 
+
 </head>
 
 
@@ -120,11 +131,38 @@
 </section>
         <!-- end: Content -->
 
-        <section class="no-padding">
-
-<div class="map" data-latitude="37.552378" data-longitude="126.916485" data-style="light" data-info="Hello from &lt;br&gt; Inspiro Themes" data-height-lg="500" data-height-xs="200" data-height-sm="300"></div>
-
-</section>
+        <section id="page-content">
+            <div class="container">
+                <div class="portfolio-content" data-lightbox="gallery">
+                </div> 
+        
+            <div id="mapid" style="width: 640px; height: 480px;"></div>
+            <script>
+                window.onload = function() {
+                console.log('page chargee');
+                
+                var mymap = L.map('mapid').setView([37.552458, 126.916463], 13);
+                
+               var tileStreets =  L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+            maxZoom: 18,
+            id: 'mapbox/streets-v11',
+            tileSize: 512,
+            zoomOffset: -1,
+            accessToken: 'pk.eyJ1IjoiY29yZWV2b3lhZ2UiLCJhIjoiY2thamlvcHF1MDZwZzMxbHN5OTl3eDl5cSJ9.PTi-zpn1jJD066YGxawrBA'
+        });
+        
+                    tileStreets.addTo(mymap);
+                    
+                    
+                    var marker = L.marker([37.552458, 126.916463]).addTo(mymap);
+                    marker.bindPopup("<b>Corée Voyage</b>");
+                
+                }
+            </script>
+            </div>
+         </section>
+        
 
 
 <section>
@@ -270,7 +308,7 @@ C'EST PAR <a href="atelier-voyage" target="_blank" rel="noopener noreferrer">ICI
             </div>
             <div class="copyright-content">
                 <div class="container">
-                    <p style="text-align: center;"><a href="mentions-legales.html">Mentions légales</a> | <a href="conditions-de-vente" target="_blank" rel="noopener noreferrer">CGV</a></p>
+                    <p style="text-align: center;"><a href="mentions-legales.html">Mentions légales</a> | <a href="conditions-de-vente" target="_blank" rel="noopener noreferrer">CGV</a> | <a href="sitemap.xml" target="_blank" rel="noopener noreferrer">Sitemap</a></p>
                     <div class="copyright-text text-center">© 2020 Corée Voyage. Tous droits réservés.</div>
                 </div>
             </div>
@@ -289,9 +327,7 @@ C'EST PAR <a href="atelier-voyage" target="_blank" rel="noopener noreferrer">ICI
     <!--Template functions-->
     <script src="js/functions.js"></script>
 
-<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?key=AIzaSyAZIus-_huNW25Jl7RPmHgoGZjD5udgBMI'></script>
-<script type="text/javascript" src="plugins/gmap3/gmap3.min.js"></script>
-<script type="text/javascript" src="plugins/gmap3/map-styles.js"></script>
+
 
 
 </body>
