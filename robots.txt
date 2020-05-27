@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /wp-content
 
 Sitemap: https://coreevoyage.com/sitemap.xml
