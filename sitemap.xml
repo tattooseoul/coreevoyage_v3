@@ -9,178 +9,468 @@
 
 <url>
   <loc>https://www.coreevoyage.com/</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/index.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/equipe-coreevoyage.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/nos-voyages.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/experiences.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/atelier-voyage.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/blog.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/podcast.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/ou-nous-trouver.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/tour-virtuel-gyeongbok.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/regroupes.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/incontournables.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/autotour.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.coreevoyage.com/escapade-a-gapyeong.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <loc>https://www.coreevoyage.com/le-bulgogi.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.coreevoyage.com/heyri.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <loc>https://www.coreevoyage.com/les-cigales.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.coreevoyage.com/namhansanseong.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <loc>https://www.coreevoyage.com/le-long-de-cheonggyecheon.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/regroupes</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/incontournables</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/autotour</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/excursions</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/atelier-voyage</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/ou-nous-trouver</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/equipe-coreevoyage</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/avis-voyageurs</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/assurance</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/blog</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/mentions-legales.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/conditions-de-vente.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/conditions-de-vente</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/tours-virtuels.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/excursions.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/janggu.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/conditions-de-vente.pdf</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/jeux-traditionnels-seollal.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/recette-du-hotteok.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/sang-chaud.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/la-legende-de-chilseok.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/les-4-rois-des-cieux.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/les-haenyeo-de-jeju.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/escapade-a-gapyeong.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/heyri.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/namhansanseong.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/tangun.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/35-quarantaine-en-coree-du-sud-k-drama-true-beauty</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/34-on-tchape-3-actualite-avril-2021</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/33-association-franco-coreenne-de-toulouse</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/32-jeju-olle-festival</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/31-laetitia</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/30-tchape-2</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/29-danseuse-coreenne-nee-au-japon</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/28-alcool-en-coree.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/27-goal</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/26-mouvement-independance-1er-mars</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/25-jeju-actualite-fevrier-2021</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/24-gyeongju-la-cite-d-or</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/23-cuisine-coreenne-musique-poesie</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/22-on-tchape-voyage-musique-cafes-bars-langue-coreenne</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/21-street-food-actualite-coree-du-sud-janvier-2021</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/20-la-coree-a-la-reunion-kimchi-run</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/19-voyageons-avec-mina.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/18-interview-felix-coreevoyage</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/17-quiz-coree-voyage</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/16-min-vis-tes-reves-et-cours-de-coreen-4</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/15-artiste-coreenne-en-france-jiyun-lim</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/14-de-guenin-a-seoul-avec-arnaud-laudrin</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/13-adoption-internationale-kimura-byol-nathalie-lemoine</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/12-catherine-germier-hamel-tourisme-durable-suncheon</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/11-commander-au-restaurant-bugaksan-moun-pais</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/10-etienne-delasayette-baeshibang-et-akale-wube</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/9-premiers-pas-en-france-montagne-gwanaksan-deuxieme-cours-de-coreen</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/8-architecture-et-marche-de-namdaemun</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/7-lgbt-en-coree-du-sud-balade-a-myeongdong</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/6-escapade-a-nami-dakgalbi-et-premier-cours-de-coreen</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/5-songpyeon-superstitions-coreennes-et-swastika</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/4-chuseok-la-fete-des-moissons</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/3-a-la-rencontre-de-sa-famille-biologique</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/2-le-graffiti-en-coree-du-sud</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/1-bienvenue-dans-le-coreevoyage-show</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/gir-printemps.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/gir-automne.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/groupe-sur-mesure-devis</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/incontournables-devis</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/incontournables-devis.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/autotour-devis.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://www.coreevoyage.com/excursions-ganghwado.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/2020_kimura-lemoine_e-zine_Dazibao.pdf</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/le-bulgogi</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.coreevoyage.com/gir-printemps-devis.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.coreevoyage.com/gir-automne-devis.html</loc>
-  <lastmod>2020-03-14T09:23:07+00:00</lastmod>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/journee-a-ganghwado.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/une-nuit-a-ganghwado.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/journee-a-ganghwado-devis.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.coreevoyage.com/une-nuit-a-ganghwado-devis.html</loc>
+  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
 
 
