@@ -53,11 +53,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.coreevoyage.com/tour-virtuel-gyeongbok.html</loc>
-  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://www.coreevoyage.com/regroupes.html</loc>
   <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.80</priority>
@@ -149,11 +144,6 @@
 </url>
 <url>
   <loc>https://www.coreevoyage.com/conditions-de-vente</loc>
-  <lastmod>2021-09-18T04:18:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.coreevoyage.com/tours-virtuels.html</loc>
   <lastmod>2021-09-18T04:18:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
