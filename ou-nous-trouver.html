@@ -19,12 +19,12 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
     integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
     crossorigin=""/>
- 
+
  <!-- Make sure you put this AFTER Leaflet's CSS -->
   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
     integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
     crossorigin=""></script>
- 
+
 
 </head>
 
@@ -57,7 +57,7 @@
                             <li><a href="podcast.html">PODCAST</a></li>
                             <li><a href="ou-nous-trouver.html">Où nous trouver ?</a></li>
                         </ul>
-                           
+
                     </nav>
                 </div>
             </div>
@@ -65,8 +65,8 @@
 
             <p style="text-align: left; color: #2abf95"><i class="icon-phone"></i> +82 (2)-326-0511</p>
             <p style="text-align: left; color: #2abf95"><i class="icon-mail"></i> contact@coreevoyage.com</p>
-        
-            
+
+
             <hr class="space">
             <!--social icons-->
             <div class="social-icons social-icons-colored text-center">
@@ -78,7 +78,7 @@
             </div>
             <!--end: social icons-->
 
-      
+
         </div>
 
     </div>
@@ -139,13 +139,13 @@
             <div class="content col-lg-12">
              <div id="mapid" style="height: 300px;"></div>
 
- 
+
             <script>
                 window.onload = function() {
                 console.log('page chargee');
-                
+
                 var mymap = L.map('mapid').setView([37.552458, 126.916463], 13);
-                
+
                var tileStreets =  L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
             attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
             maxZoom: 18,
@@ -154,20 +154,20 @@
             zoomOffset: -1,
             accessToken: 'pk.eyJ1IjoiY29yZWV2b3lhZ2UiLCJhIjoiY2thamlvcHF1MDZwZzMxbHN5OTl3eDl5cSJ9.PTi-zpn1jJD066YGxawrBA'
         });
-        
+
                     tileStreets.addTo(mymap);
-                    
-                    
+
+
                     var marker = L.marker([37.552458, 126.916463]).addTo(mymap);
                     marker.bindPopup("<b>Corée Voyage</b>");
-                
+
                 }
             </script>
             </div>
             </div>
         </div>
-         </section>
-        
+         <!-- </section> -->
+
 
 
 <section>
@@ -184,6 +184,7 @@
 Séoul, Corée du Sud<br>
 <i class="icon-phone"></i> <strong>Téléphone :</strong>+82 (2)-326-0511<br>
 <i class="icon-mail"></i> <strong>Mail :</strong> contact@coreevoyage.com<br>
+</address>
 
 
 </div>
@@ -216,9 +217,9 @@ C'EST PAR <a href="atelier-voyage" target="_blank" rel="noopener noreferrer">ICI
                                 <div class="form-group col-md-6">
                                     <label>Adresse mail</label>
                                     <input type="email" class="form-control" name="email" placeholder="" required>
-                                </div>    
-                                </div> 
-                                    
+                                </div>
+                                </div>
+
                                 <div class="form-row">
                                          <div class="col-md-9">
                                         <div class="form-group">
@@ -237,9 +238,9 @@ C'EST PAR <a href="atelier-voyage" target="_blank" rel="noopener noreferrer">ICI
                             </form></address>
                         </div>
                     </div>
-                              
-                              
-                                       
+
+
+
    </div></div></div></section>
 
 
@@ -256,7 +257,7 @@ C'EST PAR <a href="atelier-voyage" target="_blank" rel="noopener noreferrer">ICI
                                 <p>Séoul, Corée du Sud</p>
                                 <p><i class="icon-phone"></i> 09-77-19-81-33</p>
                                 <p><i class="icon-mail"></i> contact@coreevoyage.com</p>
-                                
+
                             </div>
                         </div>
                         <div class="col-lg-7">
@@ -279,7 +280,7 @@ C'EST PAR <a href="atelier-voyage" target="_blank" rel="noopener noreferrer">ICI
                                             <li><a href="atelier-voyage">Atelier Voyage</a></li>
                                             <li><a href="ou-nous-trouver">Où nous trouver</a></li>
 
-                                            
+
 
                                         </ul>
                                     </div>
